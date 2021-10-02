@@ -12,4 +12,4 @@
 
 The following is my photo
 
-<img src="/Contributors/images/IMG_0247.png" width="300" height="300" alt="Image"/><br/>
+<img src="/Contributors/images/IMG_0247.jpg" width="300" height="300" alt="Image"/><br/>
