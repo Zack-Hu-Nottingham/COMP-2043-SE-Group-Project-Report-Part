@@ -19,4 +19,4 @@
 
 **-**Picture About Me:
 
-<img src="Contributors/images/Christina.jpg" alt="cute pic" style="zoom:10%;" />
+<img src="Contributors/images/Christina.jpg" width="200" height="300" alt="Image" alt="cute pic" style="zoom:10%;" />
