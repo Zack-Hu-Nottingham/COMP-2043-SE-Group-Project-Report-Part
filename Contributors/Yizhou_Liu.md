@@ -17,6 +17,6 @@
 - Artificial Intelligence 
 - Management System Development
 
-*A cute picture*:
+**- **Picture About Me:
 
-<img src="Contributors/images/Christina.jpg" alt="cute pic" style="zoom:25%;" />
+<img src="Contributors/images/Christina.jpg" alt="cute pic" style="zoom:10%;" />
