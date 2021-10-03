@@ -19,4 +19,4 @@
 
 *A cute picture*:
 
-<img src="/images/Christina.jpg" alt="cute pic" style="zoom:25%;" />
+<img src="Contributors/images/Christina.jpg" alt="cute pic" style="zoom:25%;" />
