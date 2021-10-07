@@ -33,4 +33,7 @@
 4. Minutes should also includes date, time, place, chair, and secretary of the next meeting.
 5. Minutes would have action point, what is the task, who is assigned to it, what is the deadline. 
    - John: Find a good Visual Basic Book. Done by: 11 Nov (next group meeting)
-6. 
+
+
+
+#### 7. Prepare prototype
