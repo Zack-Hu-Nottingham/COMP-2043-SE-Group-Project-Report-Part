@@ -2,7 +2,7 @@
 
 <h3>Team Logo:</h3> 
 
-![alt text](Contributors/Team.jpg)
+![alt text](Contributors/images/Team.jpg)
 
 #### [Here is our web page!]()
 
