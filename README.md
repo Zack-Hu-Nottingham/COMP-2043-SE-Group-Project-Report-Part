@@ -2,7 +2,7 @@
 
 <h3>Team Logo:</h3> 
 
-![alt text](Contributors/Team.jpg)
+<img src = "Contributors/images/Team.jpg" width = 500>
 
 #### [Here is our web page!]()
 
