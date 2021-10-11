@@ -57,7 +57,7 @@ Back to this project, imagine that within one click, the project manager could a
 #### 	***What is our plan?***
 
 ![part1](Timetable/part1.png)
-![part2](Timetable/part2.png)
+![part2](Timetable/part2.jpg)
 
 
 ## Our understanding of the project
