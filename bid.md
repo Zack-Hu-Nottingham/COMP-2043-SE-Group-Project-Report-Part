@@ -60,40 +60,8 @@ Back to this project, imagine that within one click, the project manager could a
 
 #### 	***What is our plan?***
 
-
-
-
-
-
-
-Prepare for the bid, we might have to provide CV, blueprint, timetable/schedule, demo...
-
-
-
-A letter outlining why the team is is a good candidate for completing the project 
-
-• Details of relevant experience or expertise. Some teams may like to include CVs or resum´es for their team members 
-
-• Some proposed ideas related to the project 
-
-• An estimated timeline or schedule for how the team would complete the project on time
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![part1](Timetable/part1.png)
+![part2](Timetable/part2.png)
 
 
 
@@ -136,13 +104,6 @@ A letter outlining why the team is is a good candidate for completing the projec
 
 
 
-Requirements elicitation & analysis  ---> Prototyping ----> Use case diagram ---->
-
-
-
-
-
-
 
 
 
@@ -175,7 +136,10 @@ Some screenshot below
 
 
 #### Team01 member's CV
-
+ - [YuzheZhang's CV](CV/CV_YuzheZhang.pdf)
+ - [YizhouLiu's CV](CV/CV_YizhouLiu.pdf)
+ - [YuhongWei's CV](CV/CV_YuhongWei.pdf)
+ - [YuanshiWang's CV](CV/CV_YuanshiWang.pdf)
 
 
 #### Informal meeting's minutes and agenda
