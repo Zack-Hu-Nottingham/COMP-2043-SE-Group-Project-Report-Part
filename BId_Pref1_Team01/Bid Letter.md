@@ -140,6 +140,9 @@ Some screenshot below
 #### 3. Informal meeting's minutes and agenda
 
 - **Minutes:**
+
+  * [Minutes_Oct10](Minutes/Minutes_Oct10.pdf)
+
   - [Minutes_Oct01](Minutes/Minutes_Oct01.pdf)
   - [Minutes_Sep29](Minutes/Minutes_Sep29.pdf)
 
