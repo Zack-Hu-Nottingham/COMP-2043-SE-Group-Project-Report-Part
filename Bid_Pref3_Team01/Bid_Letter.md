@@ -10,13 +10,7 @@
 
 ## Why Team 01 choose this project as third preference? 
 
-As we do believe that computer science is to make life easier and better. 
-
-In the nineteen seventies, the Xerox Corporation invented GUI, it was a great hit at that time. It enables people who might have  no idea of how computer works to make use it. Look around, with mouse, keyboard, user-friendly graphic interface, everyone, yes everyone could easily get used to computer and make use it to improve the working efficiency or entertain themselves with it. That is what computer science bring to the world, it makes everyone's life better. We do have reansons to believe that, in the future, more Human-computer interaction application would be required and invented. 
-
-Back to this project, imagine that within one click, the project manager could arrange the job, check the ongoing events, check what is the resource need next or even motivate slacking employees. No more boring meetings, all the relevant info are presented just in front of the manager concisely and vividly. Everything is under control within one click. It is the same for the owner of the house/apartment. With his account, he could login the system and check the progress of decoration. Moreover he could follow it in WeChat and once a progress made, a piece of notification would sent to the owner. If anything goes wrong, owner could give feedback to the project manager via that system. This system do help the owner to follow the project and the manager to manage, control the project.
-
-
+To be honest, this project extremely attracted me when I browsed the overview. I realized that this is a challenging but quite interesting project. It is closely related to Ningbo,  where I live and study.  I feel like making a contribution to this prosperous port city. In addition, this is a comprehensive project, which request knowledge in more than one area and good cooperation in a software development team. I convinced that every member in our team will gain a lot, including programming skills, the method of work as a team and so on, when this course finishs.
 
 
 
@@ -89,6 +83,7 @@ Back to this project, imagine that within one click, the project manager could a
 
 - The precedence relation between each project.
 - Resource() to fulfill each task is known.
+- The contents of toolkit.
 
 
 
@@ -108,9 +103,9 @@ Back to this project, imagine that within one click, the project manager could a
 
 
 
-In the system, a network fixed project plan (PP) is given. ?????
+In the system, a network fixed project plan (PP) is given. 
 
-Some statistic results should be exhibited in hierarchical detail levels?????
+Some statistic results should be exhibited in hierarchical detail levels.
 
 
 
@@ -146,10 +141,14 @@ Some screenshot below
 #### 3. Informal meeting's minutes and agenda
 
 - **Minutes:**
+
+  * [Minutes_Oct10](Minutes/Minutes_Oct10.pdf)
+
   - [Minutes_Oct01](Minutes/Minutes_Oct01.pdf)
   - [Minutes_Sep29](Minutes/Minutes_Sep29.pdf)
 
 - **Agenda:**
+  
   - [Agenda_Sep29](Agendas/Agenda_Sep29.pdf)
 
 
