@@ -10,6 +10,8 @@
 
 ## Why Team 01 choose this project as third preference? 
 
+Ningbo‐Zhoushan Port is the world‐leading port in Ningbo. Hence it is significant to surveillant the operations in the port and monitor the daily operations. With the recent developments in computer vision and machine learning, analyzing surveillance videos and un‐ derstanding the content of the video becomes feasible. We do have reansons to believe that, we can develop and implement a surveillance video analysis toolbox to ensure the safety of Zhoushan Port.
+
 To be honest, this project extremely attracted me when I browsed the overview. I realized that this is a challenging but quite interesting project. It is closely related to Ningbo,  where I live and study.  I feel like making a contribution to this prosperous port city. In addition, this is a comprehensive project, which request knowledge in more than one area and good cooperation in a software development team. I convinced that every member in our team will gain a lot, including programming skills, the method of work as a team and so on, when this course finishs.
 
 
@@ -74,9 +76,8 @@ To be honest, this project extremely attracted me when I browsed the overview. I
 
 ***Target:*** 
 
-- Monitor the progress of a project.
-- Minimize the completion time of a project.
-
+- Surveillant the operations in the port and monitor the daily operations
+- Detect and track people and vehicles, recognize faces and gaits, and detect unusual dangerous events
 
 
 ***Given:***
