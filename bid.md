@@ -47,7 +47,9 @@ Back to this project, imagine that within one click, the project manager could a
 
 ***Technical Lead***: Yuzhe Zhang (Lok) & Yizhou Liu (Christina)
 
-- Lok have working experience with other colleagues in one technical company on the design of WeChat applet, familiar with WeChat interface implementation.  
+- Lok have working experience with other colleagues in one technical company on the design of WeChat applet, familiar with WeChat interface implementation. 
+- Lok also have Diagnose and understand customers requirement quickly, deal with troubleshoot technology. 
+- Lok experienced using IRON Python for better and more in-depth statistical analysis of data.
 - Christina have
 
 
