@@ -121,9 +121,9 @@ Some statistic results should be exhibited in hierarchical detail levels?????
 
 Some screenshot below
 
-![image-20211009132702563](RepoImage\image-20211009132702563.png)
+![image-20211009132702563](RepoImage/image-20211009132702563.png)
 
-![image-20211009132727267](RepoImage\image-20211009132727267.png)
+![image-20211009132727267](RepoImage/image-20211009132727267.png)
 
 
 
