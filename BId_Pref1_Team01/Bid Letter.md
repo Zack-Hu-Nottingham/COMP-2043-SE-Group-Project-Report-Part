@@ -46,7 +46,8 @@ Back to this project, imagine that within one click, the project manager could a
 - Lok have working experience with other colleagues in one technical company on the design of WeChat applet, familiar with WeChat interface implementation. 
 - Lok also have Diagnose and understand customers requirement quickly, deal with troubleshoot technology. 
 - Lok experienced using IRON Python for better and more in-depth statistical analysis of data.
-- Christina have
+- Christina has working experience in data mining and applet development, who has an internship about data type transformation and data processing.
+- Christina has worked with a project group about bluetooth connection and machine operation, gaining experience in OpenCV operation. 
 
 
 
