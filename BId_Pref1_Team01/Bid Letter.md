@@ -2,11 +2,7 @@
 
 [toc]
 
-
-
 ## Why Team 01 choose this project as first preference? 
-
-
 
 As we do believe that computer science is to make life easier and better. 
 
@@ -64,8 +60,6 @@ Back to this project, imagine that within one click, the project manager could a
 ![part2](Timetable/part2.png)
 
 
-
-
 ## Our understanding of the project
 
 ***Stakeholder Analysis:***
@@ -121,28 +115,28 @@ Some statistic results should be exhibited in hierarchical detail levels?????
 
 ## Appendix 
 
-#### Team01's repo: 
+#### 1. Team01's repo: 
 
 [Click here to view our repo](https://csprojects.nottingham.edu.cn/scyzh6/team202101)
 
 Some screenshot below
 
-![image-20211009132702563](repoImage\image-20211009132702563.png)
+![image-20211009132702563](RepoImage\image-20211009132702563.png)
 
-![image-20211009132727267](repoImage\image-20211009132727267.png)
-
-
+![image-20211009132727267](RepoImage\image-20211009132727267.png)
 
 
 
-#### Team01 member's CV
+
+
+#### 2. Team01 member's CV
  - [YuzheZhang's CV](CV/CV_YuzheZhang.pdf)
  - [YizhouLiu's CV](CV/CV_YizhouLiu.pdf)
  - [YuhongWei's CV](CV/CV_YuhongWei.pdf)
  - [YuanshiWang's CV](CV/CV_YuanshiWang.pdf)
 
 
-#### Informal meeting's minutes and agenda
+#### 3. Informal meeting's minutes and agenda
 
 - **Minutes:**
   - [Minutes_Oct01](Minutes/Minutes_Oct01.pdf)
