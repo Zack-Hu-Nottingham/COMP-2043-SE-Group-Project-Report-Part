@@ -37,7 +37,8 @@ Back to this project, imagine that within one click, the project manager could a
 
 ***Quality Assurance Lead***: Ming Kai
 
-- Who have go through half of the process of GRP and have experience in how to guarantee the success of our project.
+- Have one semester GRP experience to ensure project progress
+- Have certain programming ability to give appropriate suggestions
 
 
 
@@ -135,6 +136,7 @@ Some screenshot below
  - [YizhouLiu's CV](CV/CV_YizhouLiu.pdf)
  - [YuhongWei's CV](CV/CV_YuhongWei.pdf)
  - [YuanshiWang's CV](CV/CV_YuanshiWang.pdf)
+ - [MingKai's CV](CV/CV_MingKai.pdf)
 
 
 #### 3. Informal meeting's minutes and agenda
