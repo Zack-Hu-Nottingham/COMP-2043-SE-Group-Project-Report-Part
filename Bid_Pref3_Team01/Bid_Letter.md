@@ -39,7 +39,8 @@ To be honest, this project extremely attracted me when I browsed the overview. I
 
 ***Quality Assurance Lead***: Ming Kai
 
-- Who have go through half of the process of GRP and have experience in how to guarantee the success of our project.
+*-* Have one semester GRP experience to ensure project progress
+*-* Have certain programming ability to give appropriate suggestions
 
 
 
