@@ -1,6 +1,4 @@
-## Bid Preference 3
-
-### Project[P19] Surveillance Video Analysis Toolbox
+## Bid Preference 3: Project[P19] Surveillance Video Analysis Toolbox
 
 
 
