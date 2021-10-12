@@ -1,4 +1,4 @@
-## Bid Preference 3: Project[P19] Surveillance Video Analysis Toolbox
+## Bid Preference 3: [P09] An external personnel recording system for office building management
 
 
 
@@ -8,9 +8,9 @@
 
 ## Why Team 01 choose this project as third preference? 
 
-Ningbo‐Zhoushan Port is the world‐leading port in Ningbo. Hence it is significant to surveillant the operations in the port and monitor the daily operations. With the recent developments in computer vision and machine learning, analyzing surveillance videos and un‐ derstanding the content of the video becomes feasible. We do have reansons to believe that, we can develop and implement a surveillance video analysis toolbox to ensure the safety of Zhoushan Port.
+Personnel recording system has a significant role in collect person identity information. In the situation like Covid‐19 pandemic, it becomes the top priority to quickly capture the physical occurrence of a certain personnel, in order to figure out the possible spreading trace and connections. However, the current recording system for office building management still has multiple shortcomings, including but not limited to low efficiency, low utilization for information, and low technology(through scanning health code and artificial recognition). This causes the weakness of supervision of external person and eventually unables to grasp personnel information detailedly.
 
-To be honest, this project extremely attracted me when I browsed the overview. I realized that this is a challenging but quite interesting project. It is closely related to Ningbo,  where I live and study.  I feel like making a contribution to this prosperous port city. In addition, this is a comprehensive project, which request knowledge in more than one area and good cooperation in a software development team. I convinced that every member in our team will gain a lot, including programming skills, the method of work as a team and so on, when this course finishs.
+We hope to improve current situation through completing this project to apply AI methods into traditional personnel recording system. This not only improve the efficiency of personnel management, but also improve the efficiency of tracking people related to the Covid-19. Because of  the universal property of the system, it may be applied more widely in the future in many other industries.
 
 
 
@@ -75,39 +75,26 @@ To be honest, this project extremely attracted me when I browsed the overview. I
 
 ***Target:*** 
 
-- Surveillant the operations in the port and monitor the daily operations
-- Detect and track people and vehicles, recognize faces and gaits, and detect unusual dangerous events
+- Record and report the external personnel's information, including appearance statistics and identifying information, etc.
+- Increase the efficiency of recording external personnel through AI technology, especially neural network‐based face recognition and object tracking techniques.
+
 
 
 ***Given:***
 
-- The precedence relation between each project.
-- Resource() to fulfill each task is known.
-- The contents of toolkit.
+- AI application direction, including neural network‐based face recognition and object tracking techniques.
+- Dataset sources from public resources.
 
 
 
 ***Function required:***
 
-- Track the status of each task in the project, including the completion status and resources preparation for each task.
-- Present vividly the status of each project and each task in the project to the project manager through WeChat applet
-
-- Accurately recording and tracking each task’s completion status is vital for the completion of the entire project.
+- Wide application of AI technology.
+- Filter useful information from face data and store the personnel information.
+- Statistics and analyse the dataset to efficiently utilize the data.
 - Multiuser with different functionality and permission.
 - Vision-based techniques will be used to present the status of a project completion for different users.
-
-
-
-
-
-
-
-
-In the system, a network fixed project plan (PP) is given. 
-
-Some statistic results should be exhibited in hierarchical detail levels.
-
-
+- Develop a web-based system to be applied in public managing board.
 
 
 
