@@ -16,7 +16,7 @@ Back to this project, imagine that within one click, the project manager could a
 
 ## Why choose Team01?
 
-#### 	***Who are we?* ** (Roles would change all along with process)
+#### 	***Who are we?* ** (Roles would change all along with the process)
 
 ***Lead GUI Designer***: Yuanshi Wang (Johnny) & Yuhong Wei
 
