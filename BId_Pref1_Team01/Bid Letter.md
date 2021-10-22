@@ -76,10 +76,12 @@ Below is an estimate timeline for guiding/reminding us through this project. Fro
 #### ***Rough Stakeholder Analysis:***
 
 - Primary Stakeholders:
-  - Project manager/supervisor.
+  - Project manager/supervisor.增删查改
+  - 材料商，
+  - 执行工人，前序工序，后续工序，
   - Owner of the house/apartment.
   - ...
-
+  
 - Secondary Stakeholders:
   - Resource provider(Might be).
   - ...

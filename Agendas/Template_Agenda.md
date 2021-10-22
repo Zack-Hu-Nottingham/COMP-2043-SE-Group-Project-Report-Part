@@ -1,22 +1,22 @@
 # Meeting Agenda
 
-| Location        | Time                  | Attendance           |
-| --------------- | --------------------- | -------------------- |
-| Project Room 07 | 2pm - 3pm  29/09/2021 | All, except Ming Kai |
+| Location | Time                  | Attendance |
+| -------- | --------------------- | ---------- |
+| PMB      | 4pm - 5pm  21/10/2021 |            |
 
 ---
 
 ### **Agenda details**
 
-#### Ⅰ.	
+#### Ⅰ.
 
  - 
 
-#### Ⅱ.  
+#### Ⅱ.
 
 - 
 
-#### Ⅲ. 
+#### Ⅲ.
 
 - 
 
