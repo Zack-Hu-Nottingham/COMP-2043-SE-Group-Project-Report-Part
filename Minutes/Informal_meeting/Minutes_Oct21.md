@@ -37,5 +37,5 @@
   
 - Zack, Christina: Draw process diagram with related material and characters indicated.
   
-  - DDL: 10. 01 before next meeting
+  - DDL: 10. 24 before next meeting
 
