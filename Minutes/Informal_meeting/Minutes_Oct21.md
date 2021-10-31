@@ -16,13 +16,13 @@
 #### Problem met
 
 - Lack the understand of specific decoration process
-- Don't have clear mind about charactor and material requirement during the process
+- Don't have clear mind about character and material requirement during the process
 
 #### Job assignment
 
 - For Everyone:
 
-  - Learn knowlege related to project managers
+  - Learn knowledge related to project managers
   - Learn the process during home decoration according to the schedule (provided by supervisor)
   - Clarify relevant personnel information for each procedure
 
@@ -34,8 +34,8 @@
 
 - Lok, Ming Kai: Draw process diagram with related material and characters indicated.
   - DDL: 10. 24 before next meeting
-  
+
 - Zack, Christina: Draw process diagram with related material and characters indicated.
-  
+
   - DDL: 10. 24 before next meeting
 
