@@ -6,7 +6,7 @@ Functional:
    - Display login error
 
 2. Process Checking
-   - View the whole project progress in Kanban or Task Overview. Each task unit shows the <u>start time, due time, subordinate, stage, priority and description</u>, which can be edited.
+   - View the whole project progress in Kanban or Task Overview. Each task unit shows the <u>start time, due time, subordinate, stage, priority and description</u>, which can not be edited by house owner.
      - Kanban: View the project progress divided by <u>4 levels</u> (marked as different colors): Completed, Progressing, Overdued and Not Started. 
      - Task Overview: View the project progress <u>in list</u> with creation time order.
 
