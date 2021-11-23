@@ -12,23 +12,23 @@
      - existing systems- 300-400
      - market research  - 200-300
      - technical research  - 300-400
-
   3. requirement specificition  - 1800
-  4. User Inferface & Prototyping - 200+Picture
+  4. 
+  5. User Inferface & Prototyping - 200+Picture
      - Brief introduction to the proposed system
-  5. key implementation steps - 500
-  6. Key implementation steps 200-300
+  6. key implementation steps - 500
+  7. Key implementation steps 200-300
      - Language we use
      - Operation System
      - Additional software and hardware to be used 
      - Reasons for those decisions.
-  7. Discussion of any problems encountered500
+  8. Discussion of any problems encountered500
      - Mac Or Windows
      - Working Sequence
      - Flex time（earlist/lasted beginning/end time）
      - ... 
-  8. detailed timeline 400/Picture（Based on word-limitatiomn）
-  9. Meeting minutes
+  9. detailed timeline 400/Picture（Based on word-limitatiomn）
+  10. Meeting minutes
 - Determine the echelon of actors
 
 #### Progress made

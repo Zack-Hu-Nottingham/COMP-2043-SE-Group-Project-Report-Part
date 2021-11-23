@@ -18,3 +18,21 @@ Secondly, based on the work breakdown structure we draw, we figured out the task
 
 Afterwards, we turned the work breakdown structure into a network diagram, which is a flowchart displaying the chronology of activities. In network diagram, each task is encapsulated into a box and connected with arrows to depict dependencies. Then the estimate task duration is write onto each box. With upper left corner early start(ES) date, upper right corner early finish(LF) date, lower left corner late start(LS) date and lower right corner late finish(LF) date. Then the critical path is right in front of us, the sequence of activities with the longest duration is the critical path.
 
+
+
+project是啥
+
+什么是一个项目，家装项目，经典流程图
+
+
+
+工序是什么，有哪些参数最早最晚，资源约束
+
+定义
+
+cpm可以举一个例子
+
+
+
+
+

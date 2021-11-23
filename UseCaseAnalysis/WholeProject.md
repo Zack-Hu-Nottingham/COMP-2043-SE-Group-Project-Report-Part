@@ -12,9 +12,9 @@
 
 ***Admin***
 
- 	1. Administrator should be able to see the overview of all the ongoing project of the company, where overview should include start time, expected duration, project manager and current stage.
- 	2. Administrator should be able to view detailed information of a specific project when clicked in, where detailed information should include project manager, current stage, start time, end time, priority, tag, participant list, description of the project and subtask.
- 	3. Administrator should be able to view the list of all the current idle working team / project manger.
+1. Administrator should be able to see the overview of all the ongoing project of the company, where overview should include start time, expected duration, project manager and current stage.
+2. Administrator should be able to view detailed information of a specific project when clicked in, where detailed information should include project manager, current stage, start time, end time, priority, tag, participant list, description of the project and subtask.
+3. Administrator should be able to view the list of all the current idle working team / project manger.
 
 
 
